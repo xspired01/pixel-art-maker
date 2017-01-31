@@ -1,0 +1,27 @@
+/*
+	style.css:
+	selector { property:value }
+*/
+
+/* Remember imports MUST be at the top of the page to work throughout the page ----*/
+/* Short Desc of project */
+/* css style sheet to go with pixel-art-maker  */
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+
+/* ---- =structure ---- */
+body {
+    background-color: #FFEFD8;
+}
+
+header {
+  font-family: Arial, sans-serif;
+
+}
+
+main {
+
+}
+
+footer {
+
+}
